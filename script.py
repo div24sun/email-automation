@@ -15,7 +15,7 @@ from email.mime.text import MIMEText
 SERVER = 'smtp.gmail.com'  # your smtp server
 PORT  = 587    # your port number
 FROM  =  'mewaridivik@gmail.com'    # your from email id
-PASS  = 'Divik@sunny2403' # your email id password
+PASS  = '8*****' # your email id password
 
 # Authentication part
 server = smtplib.SMTP(SERVER, PORT)
